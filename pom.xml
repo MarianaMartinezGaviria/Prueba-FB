@@ -237,7 +237,7 @@
                 </configuration>
             </plugin>
         </plugins>
-        <finalName>innosistemas</finalName>
+        <finalName>prueba</finalName>
     </build>
 </project>
 
