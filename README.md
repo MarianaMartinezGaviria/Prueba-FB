@@ -1,4 +1,10 @@
 [![CI/CD Pipeline](https://github.com/MarianaMartinezGaviria/Prueba-FB/actions/workflows/build.yml/badge.svg)](https://github.com/MarianaMartinezGaviria/Prueba-FB/actions/workflows/build.yml)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=MarianaMartinezGaviria_Prueba-FB&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=MarianaMartinezGaviria_Prueba-FB)
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=MarianaMartinezGaviria_Prueba-FB&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=MarianaMartinezGaviria_Prueba-FB)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=MarianaMartinezGaviria_Prueba-FB&metric=coverage)](https://sonarcloud.io/summary/new_code?id=MarianaMartinezGaviria_Prueba-FB)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=MarianaMartinezGaviria_Prueba-FB&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=MarianaMartinezGaviria_Prueba-FB)
+[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=MarianaMartinezGaviria_Prueba-FB&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=MarianaMartinezGaviria_Prueba-FB)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=MarianaMartinezGaviria_Prueba-FB&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=MarianaMartinezGaviria_Prueba-FB)
 # InnoSistemas Backend - API GraphQL
 
 Plataforma de Integración y Desarrollo de Software para Estudiantes de Ingeniería de Sistemas - Universidad de Antioquia
