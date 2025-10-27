@@ -107,4 +107,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: ${{ secrets.DOCKER_USERNAME }}
+          tags: ${{ secrets.DOCKER_USERNAME }}/prueba:latest
