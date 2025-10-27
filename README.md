@@ -1,3 +1,4 @@
+[![CI/CD Pipeline](https://github.com/MarianaMartinezGaviria/Prueba-FB/actions/workflows/build.yml/badge.svg)](https://github.com/MarianaMartinezGaviria/Prueba-FB/actions/workflows/build.yml)
 # InnoSistemas Backend - API GraphQL
 
 Plataforma de Integración y Desarrollo de Software para Estudiantes de Ingeniería de Sistemas - Universidad de Antioquia
